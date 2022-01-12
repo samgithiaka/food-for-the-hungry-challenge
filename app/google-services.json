@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "682756869685",
+    "project_id": "food-for-the-hungry-e5714",
+    "storage_bucket": "food-for-the-hungry-e5714.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:682756869685:android:acef17464876f5ceee6b7c",
+        "android_client_info": {
+          "package_name": "com.samgithiaka.apps.foodforthehungry"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "682756869685-e0972u9msrqjs5h8c9bj1dk513j7e0lp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.samgithiaka.apps.foodforthehungry",
+            "certificate_hash": "0cc655b85bc55fa371654f570a5e41f77d7bffd3"
+          }
+        },
+        {
+          "client_id": "682756869685-9oghsstrp74jbgu5obhdbfpqfpqc16l1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXA3lABItPozvE1_PdFBCE5q6qZKjtG0A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "682756869685-9oghsstrp74jbgu5obhdbfpqfpqc16l1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
